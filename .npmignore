@@ -1,0 +1,7 @@
+src/**
+tests/**
+coverage/**
+config/**
+storybook-static/**
+.*
+**/.jest-test-results.json
